@@ -1,7 +1,6 @@
 import tkinter as tk
 import re
 from time import sleep
-from typing import Dict, List, Tuple
 import argparse
 
 

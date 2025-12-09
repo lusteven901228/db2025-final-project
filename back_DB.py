@@ -1,8 +1,5 @@
 import psycopg2
-from tabulate import tabulate
 import hashlib
-import random
-import string
 import os
 
 # ------------------ DB Layer ------------------
